@@ -1,6 +1,8 @@
 # Scrap Garmin Connect and take ownership of your data
 
-Will download the following bio-metric of a given the day and store then in a json file: sleep, weight, heartrate, stress and pulse-ox
+Will download bio-metrics of a given the day and store them in a json file.
+
+Currently handle: sleep, weight, heart rate, stress and pulse-ox
 
 ## From shell
 
